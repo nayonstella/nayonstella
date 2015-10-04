@@ -1,0 +1,27 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   blog/__init__.py
+#	new file:   blog/admin.py
+#	new file:   blog/migrations/__init__.py
+#	new file:   blog/models.py
+#	new file:   blog/tests.py
+#	new file:   blog/urls.py
+#	new file:   blog/views.py
+#	new file:   db.sqlite3
+#	new file:   doginsight/__init__.py
+#	new file:   doginsight/__pycache__/__init__.cpython-34.pyc
+#	new file:   doginsight/__pycache__/settings.cpython-34.pyc
+#	new file:   doginsight/settings.py
+#	new file:   doginsight/settings_prod.py
+#	new file:   doginsight/urls.py
+#	new file:   doginsight/wsgi.py
+#	new file:   manage.py
+#	new file:   requirements.txt
+#
+
